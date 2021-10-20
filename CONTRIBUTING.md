@@ -100,7 +100,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
   x = x + 2	# increased by 2
   ```
 
-  This is too trivial. Comments are expected to be explanatory. For comments, you can write the above, on, or below a line of code, as long as you are consistent within the same piece of code.
+  This is too trivial. Comments are expected to be explanatory. For comments, you can write the above, on or below a line of code, as long as you are consistent within the same piece of code.
 
   We encourage you to put docstrings inside your functions but please pay attention to the indentation of docstrings. The following is a good example:
 
